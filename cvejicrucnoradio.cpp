@@ -57,7 +57,7 @@ double* getPrihod(){return prihod;}
 void unos(){
 cout<<"Unesite naziv filma: "; cin>>naziv;
 cout<<"Unesite rezisera: "; cin>>reziser;
-cout<<"Unesite ulogu: "; cin>>uloga;
+cout<<"Unesite uloge: "; cin>>uloga;
 cout<<"Unesite godinu: "; cin>>godina;
 cout<<"Unesite budzet: "; cin>>budzet;
 cout<<"Unesite budzete po mesecima: ";
